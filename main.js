@@ -1,1 +1,1 @@
-alert("my new app")
+console.log("hello");
